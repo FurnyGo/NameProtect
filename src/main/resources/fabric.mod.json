@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "nameprotect",
+  "version": "${version}",
+
+  "name": "NameProtect",
+  "description": "NameProtect function from some mod",
+  "authors": [
+    "FurnyGo",
+    "seasnail",
+    "MineGame159"
+  ],
+  "contact": {
+    "sources": "https://github.com/FurnyGo/NameProtect"
+  },
+
+  "license": "GPL-3.0",
+  "icon": "assets/nameprotect/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "furnygo.nameprotect.NameProtect"
+    ]
+  },
+  "mixins": [
+    "nameprotect.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.10.1",
+    "fabric-api": "*",
+    "minecraft": "*",
+    "java": ">=8",
+    "owo-lib": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

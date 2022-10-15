@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "furnygo.nameprotect.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "TextVisitFactory"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
