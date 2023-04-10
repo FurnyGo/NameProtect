@@ -6,5 +6,5 @@
 <h3>Now you can change your nickname ONLY in YOUR chat, scoreboard, tab, etc... (for screenshots) in Minecraft 1.19+</h3>  
 
 ## Dependencies
-**You need: [Fabric API](https://modrinth.com/mod/fabric-api), [oωo lib](https://modrinth.com/mod/owo-lib), [Mod Menu](https://modrinth.com/mod/modmenu)**
+**You need to install: [Fabric API](https://modrinth.com/mod/fabric-api), [oωo lib](https://modrinth.com/mod/owo-lib), [Mod Menu](https://modrinth.com/mod/modmenu)**
 </div>
